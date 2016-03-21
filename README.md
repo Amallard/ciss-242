@@ -1,4 +1,4 @@
-Homework solutions for Columbia College course CISS-241 Programming I (C++).
+Homework solutions for Columbia College course CISS-242 Programming II (C++).
 
 Homework samples are taken from the following textbook: Gaddis, Tony. Starting Out With C++: From Control Structures Through Objects. Addison Wesley, 2015 (8th edition) ISBN: 978-0-13-376939-5
 
